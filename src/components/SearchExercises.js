@@ -68,6 +68,7 @@ const SearchExercises = ({ setExercises, bodyPart, setBodyPart }) => {
         <Button
           className='search-btn'
           type='submit'
+          href='#exercises'
           sx={{
             backgroundColor: "#ff2625",
             color: "#fff",
